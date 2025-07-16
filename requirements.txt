@@ -1,0 +1,6 @@
+fastapi
+openai
+faiss-cpu
+pinecone-client
+transformers
+uvicorn
